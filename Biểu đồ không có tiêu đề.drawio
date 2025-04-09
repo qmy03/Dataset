@@ -170,7 +170,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Bản sao của Thêm môn học" id="2LUoyo44bZIf-shpvTLO">
-    <mxGraphModel dx="4767" dy="3514" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3078" dy="2509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hicsXekvNheJVwwm9iYy-0" />
         <mxCell id="hicsXekvNheJVwwm9iYy-1" parent="hicsXekvNheJVwwm9iYy-0" />
@@ -386,7 +386,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7AcF1vxYCqZZ2a4drItG-18" value="&lt;b&gt;sd&lt;/b&gt;&amp;nbsp;randked match" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=110;height=30;" vertex="1" parent="hicsXekvNheJVwwm9iYy-1">
-          <mxGeometry x="-68" y="576" width="2115" height="1666" as="geometry" />
+          <mxGeometry x="-68" y="576" width="1484" height="1666" as="geometry" />
         </mxCell>
         <mxCell id="7AcF1vxYCqZZ2a4drItG-32" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="hicsXekvNheJVwwm9iYy-1">
           <mxGeometry x="-45" y="663" width="20" height="1600" as="geometry" />
