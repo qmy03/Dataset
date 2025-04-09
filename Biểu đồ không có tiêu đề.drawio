@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Thêm môn học">
     <mxGraphModel dx="1113" dy="1637" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,7 +170,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Chỉnh sửa môn học" id="UO5bG-sAz53AwLmSUDOf">
-    <mxGraphModel dx="1512" dy="2359" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1375" dy="2121" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ugq8LRYXuCdMQxfLcuCS-0" />
         <mxCell id="ugq8LRYXuCdMQxfLcuCS-1" parent="ugq8LRYXuCdMQxfLcuCS-0" />
@@ -199,7 +199,7 @@
           <mxGeometry x="430" y="-80" width="40" height="708" as="geometry" />
         </mxCell>
         <mxCell id="ugq8LRYXuCdMQxfLcuCS-10" value="&lt;b&gt;SubjectController&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="ugq8LRYXuCdMQxfLcuCS-1">
-          <mxGeometry x="397.81" y="-110" width="104.38" height="30" as="geometry" />
+          <mxGeometry x="396.81" y="-107" width="128.19" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ugq8LRYXuCdMQxfLcuCS-11" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="ugq8LRYXuCdMQxfLcuCS-1">
           <mxGeometry x="600" y="-80" width="40" height="720" as="geometry" />
@@ -284,7 +284,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ugq8LRYXuCdMQxfLcuCS-28" value="&lt;b&gt;[Invalid data]&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="ugq8LRYXuCdMQxfLcuCS-1">
-          <mxGeometry x="40" y="379" width="180" height="30" as="geometry" />
+          <mxGeometry x="36" y="462" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ugq8LRYXuCdMQxfLcuCS-29" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="ugq8LRYXuCdMQxfLcuCS-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -358,6 +358,208 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gCMDwl5an3ijmKQT-tBM-8" value="validateEditedData()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="ugq8LRYXuCdMQxfLcuCS-1">
+          <mxGeometry x="-0.875" y="10" relative="1" as="geometry">
+            <mxPoint x="455" y="285.9600000000002" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="490" y="285.96" />
+              <mxPoint x="490" y="295.96" />
+            </Array>
+            <mxPoint x="455" y="295.9600000000002" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Bản sao của Chỉnh sửa môn học" id="DuWm7_X5ZBOp8il_uOJU">
+    <mxGraphModel dx="1218" dy="1849" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-0" />
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-1" parent="ENK-w1n6ftTUlD3stbvs-0" />
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-2" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="20" y="-80" width="20" height="717" as="geometry" />
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ENK-w1n6ftTUlD3stbvs-2">
+          <mxGeometry x="5" y="70" width="10" height="624" as="geometry" />
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-4" value="&lt;b&gt;Admin&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="5" y="-110" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-5" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="210" y="-80" width="50" height="715" as="geometry" />
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ENK-w1n6ftTUlD3stbvs-5">
+          <mxGeometry x="20" y="90" width="10" height="424" as="geometry" />
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ENK-w1n6ftTUlD3stbvs-5">
+          <mxGeometry x="20" y="566" width="10" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-8" value="&lt;b&gt;Admin Dashboard&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="175" y="-110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-9" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="430" y="-80" width="40" height="708" as="geometry" />
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-10" value="&lt;b&gt;BookTypeController&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="376" y="-110" width="132.19" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-11" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="600" y="-80" width="40" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-12" value="&lt;b&gt;BookType&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="584" y="-110" width="69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-13" value="click Edit Book Type button()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="-0.0286" width="80" relative="1" as="geometry">
+            <mxPoint x="36" y="10" as="sourcePoint" />
+            <mxPoint x="231" y="10" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-14" value="editTypeInfo()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="35" y="183" as="sourcePoint" />
+            <mxPoint x="230" y="183" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-15" value="submitEditedDetails(typeId, editedData)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="0.1805" y="2" width="80" relative="1" as="geometry">
+            <mxPoint x="240" y="233" as="sourcePoint" />
+            <mxPoint x="444.9999999999998" y="233" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="332" y="233" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-16" value="updateBookType(typeId, editedData)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="ENK-w1n6ftTUlD3stbvs-1" target="ENK-w1n6ftTUlD3stbvs-23">
+          <mxGeometry x="0.275" y="6" width="80" relative="1" as="geometry">
+            <mxPoint x="455" y="341" as="sourcePoint" />
+            <mxPoint x="615" y="341" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-17" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="-49.06" y="309" width="719.06" height="257" as="geometry" />
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-18" value="return update status" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;" edge="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="617" y="382" as="sourcePoint" />
+            <mxPoint x="455" y="382" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-19" value="&lt;b&gt;sd&lt;/b&gt;&amp;nbsp;add subject" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=110;height=30;" vertex="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="-60" y="-140" width="750" height="723" as="geometry" />
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-20" value="&lt;b&gt;[Valid data]&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="36" y="309" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="445" y="232" width="10" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-22" value="displayEditableFields(typeData)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry y="-3" width="80" relative="1" as="geometry">
+            <mxPoint x="229.5" y="140" as="sourcePoint" />
+            <mxPoint x="34.5" y="140" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="615" y="341" width="10" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-24" value="validateTypeSelection()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="-0.875" y="10" relative="1" as="geometry">
+            <mxPoint x="456" y="251.00000000000023" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="491" y="251" />
+              <mxPoint x="491" y="261" />
+            </Array>
+            <mxPoint x="456" y="261.0000000000002" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-25" value="showNotification()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="-0.0067" width="80" relative="1" as="geometry">
+            <mxPoint x="445" y="410" as="sourcePoint" />
+            <mxPoint x="240" y="410" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-26" value="&lt;b&gt;[Invalid data]&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="40" y="466" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-47" y="461" as="sourcePoint" />
+            <mxPoint x="671" y="461" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-28" value="showError()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=0.946;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="-0.0067" width="80" relative="1" as="geometry">
+            <mxPoint x="450" y="486" as="sourcePoint" />
+            <mxPoint x="240" y="486.24" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-29" value="highlightInvalidFields()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;" edge="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="541" as="sourcePoint" />
+            <mxPoint x="35" y="541" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-30" value="requestReEntry()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="-0.0067" width="80" relative="1" as="geometry">
+            <mxPoint x="230.5" y="510" as="sourcePoint" />
+            <mxPoint x="35.5" y="510" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-31" value="notify success outcome" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;" edge="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="231" y="434" as="sourcePoint" />
+            <mxPoint x="36" y="434" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="445" y="29" width="10" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-33" value="requestBookTypeDetails(typeId)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="ENK-w1n6ftTUlD3stbvs-1" target="ENK-w1n6ftTUlD3stbvs-32">
+          <mxGeometry x="-0.0286" width="80" relative="1" as="geometry">
+            <mxPoint x="241" y="29" as="sourcePoint" />
+            <mxPoint x="436" y="29" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-34" value="getBookTypeData(typeId)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="ENK-w1n6ftTUlD3stbvs-1" target="ENK-w1n6ftTUlD3stbvs-35">
+          <mxGeometry x="-0.0286" width="80" relative="1" as="geometry">
+            <mxPoint x="455" y="50.79" as="sourcePoint" />
+            <mxPoint x="611" y="51" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-35" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry x="615" y="51" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-36" value="return type data" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;" edge="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="615" y="91.00000000000003" as="sourcePoint" />
+            <mxPoint x="455" y="91.00000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-37" value="sendTypeData()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;" edge="1" parent="ENK-w1n6ftTUlD3stbvs-1" target="ENK-w1n6ftTUlD3stbvs-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="442" y="117.00000000000003" as="sourcePoint" />
+            <mxPoint x="282" y="117.00000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-38" value="click Save Changes button()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="ENK-w1n6ftTUlD3stbvs-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="36" y="210" as="sourcePoint" />
+            <mxPoint x="231" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENK-w1n6ftTUlD3stbvs-39" value="validateEditedData()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="ENK-w1n6ftTUlD3stbvs-1">
           <mxGeometry x="-0.875" y="10" relative="1" as="geometry">
             <mxPoint x="455" y="285.9600000000002" as="sourcePoint" />
             <Array as="points">
